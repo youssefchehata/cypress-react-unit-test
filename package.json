@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "cy:open": "cypress open",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
