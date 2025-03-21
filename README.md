@@ -8,7 +8,9 @@ To start the server run: npm run dev
 
 to start cypress server : npm run cy:open
 
-![image](https://github.com/user-attachments/assets/7f4d0554-fcc5-4035-856c-0e41738566b1)
+![Screenshot](https://github.com/user-attachments/assets/b3c4111c-6715-4a7a-8900-b63c5566822e)
+
+
 
 ![image](https://github.com/user-attachments/assets/cde95fa1-0555-41e5-bfc2-fe510671eaa3)
 
