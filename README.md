@@ -7,3 +7,17 @@ Install dependencies with: npm install
 To start the server run: npm run dev
 
 to start cypress server : npm run cy:open
+
+![image](https://github.com/user-attachments/assets/7f4d0554-fcc5-4035-856c-0e41738566b1)
+
+![image](https://github.com/user-attachments/assets/cde95fa1-0555-41e5-bfc2-fe510671eaa3)
+
+![Capture d'écran 2025-03-21 181715](https://github.com/user-attachments/assets/1312cf19-f5f2-4b1b-b64e-e07629d154cf)
+
+
+![Capture d'écran 2025-03-21 181216](https://github.com/user-attachments/assets/3a503b4d-3545-43f9-8598-71ff011624b4)
+
+
+
+
+
