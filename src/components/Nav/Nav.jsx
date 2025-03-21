@@ -13,7 +13,7 @@ function Nav({ count }) {
         <Navbar.Link href="/navbars">About</Navbar.Link>
         <Navbar.Link href="/navbars">Services</Navbar.Link>
         <Navbar.Link href="/navbars">Pricing</Navbar.Link>
-        <Navbar.Link href="/#">Form</Navbar.Link>
+        <Navbar.Link href="/form">Form</Navbar.Link>
         <Navbar.Link
           href="/navbars"
           className="flex items-center justify-center"
