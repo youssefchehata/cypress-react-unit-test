@@ -1,4 +1,11 @@
 # React + Vite
+#Tests avec Cypress
+
+Ce projet utilise Cypress pour tester les composants et effectuer des tests end-to-end (E2E).
+
+Les tests de composants permettent de vérifier le bon fonctionnement des éléments UI en isolation.
+
+Les tests end-to-end simulent l'interaction utilisateur à travers l'application.
 
 First you need npm installed in your local machine
 
@@ -7,6 +14,7 @@ Install dependencies with: npm install
 To start the server run: npm run dev
 
 to start cypress server : npm run cy:open
+
 
 ![Screenshot](https://github.com/user-attachments/assets/b3c4111c-6715-4a7a-8900-b63c5566822e)
 
